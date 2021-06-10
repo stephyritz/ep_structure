@@ -1,4 +1,5 @@
-# ep_structure
+# Eclairage public - Structuration des données
+
 Déploiement d'un modèle de données pour la gestion de l'éclairage public dans Postgresql
 
 Cette série de script sql permet de traduire un modèle de données conceptuel en un système de tables relationnel sous postgresql/postgis.
