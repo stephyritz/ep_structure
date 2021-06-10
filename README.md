@@ -1,6 +1,6 @@
 # Eclairage public - Structuration des données
 
-Déploiement d'un modèle de données pour la gestion de l'éclairage public dans Postgresql.
+Déploiement d'un modèle de données pour la gestion de l'éclairage public dans Postgresql. Travail réalisé pour la Communauté de Communes Cernay-Thann.
 
 Cette série de scripts sql permet de traduire un modèle de données conceptuel en un système de tables relationnel sous postgresql/postgis.
 
