@@ -1,0 +1,4 @@
+NOM;TYPE;TABLES LIÉES
+id_io;integer;
+id_objet;character varying(100);ep.objet
+id_intervention;integer;ep.intervention
