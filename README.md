@@ -14,6 +14,6 @@ C'est une première étape nécessaire qui va offir un lieu de stockage aux donn
 
 2. Le dictionnaire de données
 
-
+Les tables et leurs contenus attributaires sont décrits à travers des fichiers .csv dans https://github.com/stephyritz/ep_structure/tree/main/dictionnaire_donnees
 
 3. Les scripts permettant l'écriture des tables dans Postgresql
