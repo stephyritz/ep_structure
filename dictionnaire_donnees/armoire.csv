@@ -1,0 +1,25 @@
+NOM;TYPE;TABLES LIÉES
+id_armoire;character varying(100);
+puissancesou_armoire;numeric(4,2);
+puissanceth_armoire;numeric(4,2);
+puissancemes_armoire;numeric(4,2);
+nbdeplibre_armoire;integer;
+nbdeptotal_armoire;integer;
+typeferm_armoire;character varying(2);ep.val_typeferm
+typealim_armoire;character varying(2);ep.val_typealim
+protection_armoire;character varying(2);ep.val_typeprotecarm
+typecompteur_armoire;character varying(2);ep.val_typecompteur
+numcompteur_armoire;integer;
+terre_armoire;character varying(1);ep.val_boolean
+confip2x_armoire;character varying(1);ep.val_boolean
+confcalibre_armoire;character varying(1);ep.val_boolean
+differentiel_armoire;character varying(1);ep.val_boolean
+commande_armoire;character varying(2);ep.val_typecommande
+num_pdl_armoire;character varying(50);
+nomposte_armoire;character varying(50);
+coupure_armoire;character varying(1);ep.val_boolean
+fixation_armoire;character varying(2);ep.val_typefixation
+cosphi_armoire;numeric(3,2);
+tarifedf_armoire;character varying(2);ep.val_typetarif
+tension_armoire;character varying(2);ep.val_tension
+id_objet;character varying(100);ep.objet
