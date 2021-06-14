@@ -1,0 +1,5 @@
+NOM;TYPE;TABLES LIÉES
+id_accessoire;character varying(100);
+type_accessoire;character varying(2);ep.val_typeaccessoire
+details_accessoire;character varying(100);
+id_support;character varying(100);ep.support
