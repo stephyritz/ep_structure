@@ -1,0 +1,21 @@
+NOM;TYPE;TABLES LIÉES
+id_pl;character varying(100);
+marque_pl;character varying(2);ep.val_marquepl
+modele_pl;character varying(100);
+type_pl;character varying(2);ep.val_typepl
+ral_pl;integer;
+class_pl;character varying(2);ep.val_classepl
+typebal_pl;character varying(2);ep.val_typebalpl
+typesour_pl;character varying(2);ep.val_typesourpl
+refsour_pl;character varying(50);
+couleursour_pl;integer;
+puisour_pl;integer;
+culosour_pl;character varying(50);
+typefix_pl;character varying(2);ep.val_typefixationpl
+modelefix_pl;character varying(50);
+hauteur_pl;numeric (4,2);
+saillie_pl;numeric (4,2);
+dateposebal_pl;date;
+dateposesour_pl;date;
+id_support;character varying(100);ep.support
+etat_pl;character varying(2);ep.val_etat
