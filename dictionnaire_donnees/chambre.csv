@@ -1,0 +1,6 @@
+NOM;TYPE;TABLES LIÉES
+id_chambre;character varying(100);
+type_chambre;character varying(2);ep.val_typechambre
+couv_chambre;character varying(2);ep.val_typecouvercle
+classe_couv_chambre;character varying(2);ep.val_classecouv
+id_objet;character varying(100);ep.objet
