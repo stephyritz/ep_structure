@@ -1,0 +1,4 @@
+NOM;TYPE;TABLES LIÉES
+id_mobilier;character varying(100);
+type_mobilier;character varying(2);ep.val_typemobilier
+id_objet;character varying(100);ep.objet
