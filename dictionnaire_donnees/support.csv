@@ -1,0 +1,19 @@
+NOM;TYPE;TABLES LIÉES
+id_support;character varying(100);
+modele_support;character varying(100);
+nbfoyer_support;integer;
+depart_support;integer;
+typeboitier_support;character varying(100);
+hauteur_support;numeric(4.2);
+ral_support;integer;
+massif_support;character varying(2);ep.val_massifsupport
+regallumage_support;character varying(2);ep.val_regallumage
+type_support;character varying(2);ep.val_typesupport
+capacite_support;character varying(2);ep.val_capacitesupport
+forme_support;character varying(2);ep.val_formesupport
+protectpied_support;character varying(1);ep.val_boolean
+protec_support;character varying(2);ep.val_typeprotec
+terre_support;character varying(1);ep.val_boolean
+arm_support;character varying (50);
+id_objet;character varying(100);ep.objet
+zonage_support;character varying(2);ep.val_zonagesupport
