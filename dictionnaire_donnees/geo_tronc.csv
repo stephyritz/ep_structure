@@ -1,0 +1,17 @@
+NOM;TYPE;TABLES LIÉES
+id_tronc;integer NOT NULL;
+idgce_tronc;integer;
+sourattrib_tronc;character varying(50);
+adrue_tronc;character varying(100);
+longcalc_tronc;numeric(6,2);
+longmes_tronc;numeric(6,2);
+insee_tronc;character varying(5);ep.val_commune
+arm_tronc;character varying(50);
+fonction_tronc;character varying(2);ep.val_foncreseau
+typeres_tronc;character varying(2);ep.val_typeres
+typegaine_tronc;character varying(2);ep.val_typegaine
+typecable_tronc;character varying(2);ep.val_typecable
+origeoloc_tronc;character varying(2);ep.val_origine_geoloc
+qualglocxy_tronc;character varying(2);ep.val_qualite_geoloc
+qualglocz_tronc;character varying(2);ep.val_qualite_geoloc
+geom;geometry (LineString,3948);
