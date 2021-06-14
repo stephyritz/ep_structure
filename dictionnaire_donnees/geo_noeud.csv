@@ -1,0 +1,14 @@
+NOM;TYPE;TABLES LIÉES
+id_noeud;character varying(100);
+idgce_noeud;integer;
+adrue_noeud;character varying(100);
+x_noeud;numeric(10,3);
+y_noeud;numeric(10,3);
+z_noeud;numeric(7,2);
+prof_noeud;numeric(5,2);
+insee_noeud;character varying(5);ep.val_commune
+origeoloc_noeud;character varying(2);ep.val_origine_geoloc
+qualglocxy_noeud;character varying(2);ep.val_qualite_geoloc
+qualglocz_noeud;character varying(2);ep.val_qualite_geoloc
+id_tronc;integer;ep.geo_tronc
+geom;geometry (Point,3948);
