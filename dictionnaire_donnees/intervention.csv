@@ -1,0 +1,6 @@
+NOM;TYPE;TABLES LIÉES
+id_intervention;integer;
+type_intervention;character varying(2);ep.val_typeintervention
+date_intervention;date;
+auteur_intervention;character varying(50);
+observation_intervention;character varying(254);
