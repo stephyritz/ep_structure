@@ -1,0 +1,18 @@
+NOM;TYPE;TABLES LIÉES
+id_objet;character varying(100);
+idsimpl_objet;character varying(50);
+datemaj_objet;date;
+observation_objet;character varying(254);
+gestionnaire_objet;character varying(100);
+proprietaire_objet;character varying(100);
+anpose_objet;date;
+dim_objet;character varying(50);
+photo_objet;character varying(254);
+angle_objet;numeric(5,2);
+sourattrib_objet;character varying(50);
+materiau_objet;character varying(2);ep.val_materiau
+access_objet;character varying(1);ep.val_boolean
+etat_objet;character varying(2);ep.val_etat
+type_objet;character varying(2);ep.val_typeobjet
+id_noeud;character varying(100);ep.geo_noeud
+id_plan;integer;ep.plan
