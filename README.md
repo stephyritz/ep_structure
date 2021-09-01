@@ -4,7 +4,7 @@ Déploiement d'un modèle de données pour la gestion de l'éclairage public dan
 
 Cette série de scripts sql permet de traduire un modèle de données conceptuel en un système de tables relationnelles sous postgresql/postgis.
 
-C'est une première étape nécessaire qui va offir un lieu de stockage aux données qui vont ensuite être importées depuis le SIG GeoConcept par le biais d'un job FME.
+C'est une première étape nécessaire qui va offir un lieu de stockage aux données. Celles-ci vont, dans ce cas-ci, être importées depuis le SIG GeoConcept par le biais d'un job FME.
 
 1. Le modèle conceptuel de données
 
