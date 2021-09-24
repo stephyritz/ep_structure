@@ -25,3 +25,5 @@ Il y a deux scripts publiés dans ce projet (https://github.com/stephyritz/ep_st
 - "EP_creatview" permet de générer des vues dans un schema spécifique. L'idée est de pouvoir ensuite exploiter ces "vues" à travers un client lourd type QGIS ou par le biais d'application web.
 
 Dans le processus général mis en place au sein de la Communauté de Communes Cernay-Thann, un job FME est executé entre ces deux scripts afin de populer la base de données à partir des données métiers qui sont stockées dans un autre logiciel SIG (GeoConcept).
+
+![EP_QGIS](https://user-images.githubusercontent.com/34446202/134685292-139cd864-bf10-4d41-a24e-f8f29df6dc47.png)
