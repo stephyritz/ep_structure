@@ -8,7 +8,8 @@ C'est une première étape nécessaire qui va offir un lieu de stockage aux donn
 
 1. Le modèle conceptuel de données
 
-![Slide1](https://user-images.githubusercontent.com/34446202/121888744-a2d96f00-cd18-11eb-87cb-2d706e343b57.jpg)
+
+![EP_bd_diagram](https://user-images.githubusercontent.com/34446202/134654337-71c2f48c-94d6-4539-8611-cecce56a88d1.png)
 
 
 
